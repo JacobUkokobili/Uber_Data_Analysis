@@ -1,0 +1,4 @@
+*.Uber_Data_Analysis filter=lfs diff=lfs merge=lfs -text
+*.all_data.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.txt filter=lfs diff=lfs merge=lfs -text
